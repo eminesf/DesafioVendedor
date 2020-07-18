@@ -10,7 +10,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        Conversor conversor = new Conversor(16, 14450, 195.5f);
+        Conversor conversor = new Conversor(17, 14450, 195.5f);
 
         System.out.println("snob representa I");
         System.out.println("krok representa V");
