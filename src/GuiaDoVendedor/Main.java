@@ -16,7 +16,7 @@ public class Main {
         System.out.println("krok representa V");
         System.out.println("squid representa X");
         System.out.println("leij representa L");
-        System.out.println("snob Prata = 16 créditos");
+        System.out.println("snob Prata = 17 créditos");
         System.out.println("snob Ouro  = 14450 créditos");
         System.out.println("snob Iron  = 195.5 créditos\n");
 
